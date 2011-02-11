@@ -37,4 +37,3 @@ Please, use the following TAGS to indicate the type of issue
 
 
 
-# vim: set ts=3 et sw=3 sts=3 si ai tw=80 lbr:
